@@ -1,5 +1,5 @@
 console.log("Promena");
-fetch("https://jsonplaceolder.typicode.com/posts")
+fetch("https://jsonplaceholder.typicode.com/posts")
   .then(function (call) {
     return call.json();
   })
