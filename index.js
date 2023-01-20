@@ -9,3 +9,5 @@ fetch("https://jsonplaceholder.typicode.com/posts")
   .catch(function (error) {
     console.log(error);
   });
+
+console.log("After the push");
