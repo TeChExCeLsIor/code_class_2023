@@ -1,0 +1,8 @@
+1. Vo "src" folderot kreirajte nov folder so imeto "components"
+2. Vo "components" folderot kreirajte nov file so ime: "ContactCard.js"
+3. Ako poglednete vo slikata so ime "block-contact.jpg" ke videte deka 
+pod naslovot "LET'S CONNECT" ima 4 kontakt informacii". 
+Vo "ContactCard.js" kreirajte react komponenta i exportirajte ja. 
+Komponentot da vrajka JSX taka shto ke e slicen izgledot kako edna od 
+kontakt kartickata. 
+4. Vo "App.js" koristejki JSX napravete naslov "LET'S CONNECT" kako na slikata pogore
