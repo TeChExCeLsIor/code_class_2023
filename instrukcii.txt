@@ -6,3 +6,4 @@ Vo "ContactCard.js" kreirajte react komponenta i exportirajte ja.
 Komponentot da vrajka JSX taka shto ke e slicen izgledot kako edna od 
 kontakt kartickata. 
 4. Vo "App.js" koristejki JSX napravete naslov "LET'S CONNECT" kako na slikata pogore
+5. Povikajte ja "ContactCard.js" vo "App.js" i iskoristeta ja kako JSX
