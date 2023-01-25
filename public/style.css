@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.formsContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
