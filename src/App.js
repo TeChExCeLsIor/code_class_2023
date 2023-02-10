@@ -7,6 +7,8 @@ function App() {
   const [score, setScore] = useState(0);
   // const [disableTextArea, setDisableTextArea] = useState(true);
 
+  // nekoja promena
+
   const textareaRef = useRef();
 
   useEffect(() => {
